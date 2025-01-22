@@ -3,7 +3,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 
 
-🌐 Currently learning Web Development: HTML, CSS, and JavaScript.
+🌐 Currently learning Full Stack Web Development: HTML,CSS,JavaScript,React & Node.js.
 🎓 A passionate and quick learner, always eager to pick up new skills.
 💪 Dedicated and committed to delivering my best in everything I do.
 📖 Always ready to learn
