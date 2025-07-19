@@ -26,8 +26,8 @@
 
 ## 📌 Featured Projects
 
-🔹 [**Learnify**](https://github.com/shubhampatwal/learnify) - MERN-based course-selling platform with Stripe integration  
-🔹 [**HireBharat**](https://github.com/shubhampatwal/hirebharat) - Job portal with filters, authentication, and job application system  
+🔹 [**Learnify**](https://github.com/shubham-6969/Learnify) - MERN-based course-selling platform with Stripe integration  
+🔹 [**HireBharat**](https://github.com/shubham-6969/HireBharat) - Job portal with filters, authentication, and job application system  
 
 
 ---
