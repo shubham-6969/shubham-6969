@@ -3,7 +3,6 @@
 🎯 **Aspiring Backend Developer** | MERN Stack Enthusiast | Passionate about building scalable web apps and APIs
 
 - 🔭 **Latest Project**: [**HireBharat**](https://github.com/shubham-6969/HireBharat) – A job portal tailored for the Indian workforce 🇮🇳  
-- 🌱 **Currently Learning**: Advanced Node.js, System Design, and SQL  
 - 💬 **Ask Me About**: `Node.js`, `MongoDB`, `Express`, `React`, `REST APIs`, `Authentication`  
 - ⚡ **Fun Fact**: I love turning ☕ into clean, production-ready code!
 
@@ -18,8 +17,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)  
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
