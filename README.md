@@ -47,6 +47,9 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhampatwal017)
+<a href="https://68ddf4192bf38628130d17d2--storied-granita-04b311.netlify.app/" target="_blank" class="portfolio-badge">
+    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio">
+</a>
 
 ---
 
