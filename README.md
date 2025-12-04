@@ -1,55 +1,77 @@
-# 👋 Hi, I’m Shubham Patwal
-
-🎯 **Aspiring Backend Developer** | MERN Stack Enthusiast | Passionate about building scalable web apps and APIs
-
-- 🔭 **Latest Project**: [**HireBharat**](https://github.com/shubham-6969/HireBharat) – A job portal tailored for the Indian workforce 🇮🇳  
-- 💬 **Ask Me About**: `Node.js`, `MongoDB`, `Express`, `React`, `REST APIs`, `Authentication`  
-- ⚡ **Fun Fact**: I love turning ☕ into clean, production-ready code!
-
----
-
-## 🧰 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
-![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
-
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">👋 Hey, I'm <span style="color:#7dd3fc;">Shubham Patwal</span></h1>
+<h3 align="center">🎨 Frontend Developer | React.js Enthusiast | UI/UX Focused Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-6969&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-6969&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-ff69b4?style=flat-square">
+  <img src="https://img.shields.io/badge/Speciality-React.js-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Loves-Creating%20Beautiful%20UI-ff7f50?style=flat-square">
 </p>
 
-⚠️ *Note: GitHub stats and contribution graphs may vary depending on public repo activity. Private contributions are not visible.*
+---
+
+## 🌈 About Me
+
+✨ A passionate **Frontend Developer** who loves building  
+smooth, responsive, and visually engaging web apps.
+
+💡 Currently focusing on:  
+- Modern **React UI** patterns  
+- Clean & accessible design  
+- Frontend architecture  
+- Component-driven development  
+
+🎨 I enjoy converting ideas into pixel-perfect, production-ready UI.
 
 ---
 
-## 📌 Featured Projects
-
-🔹 [**Learnify**](https://github.com/shubham-6969/Learnify) – MERN-based course-selling platform with secure authentication and Stripe integration  
-🔹 [**HireBharat**](https://github.com/shubham-6969/HireBharat) – Job portal with filters, secure login, and job application functionality  
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhampatwal017)
-<a href="https://68ddf4192bf38628130d17d2--storied-granita-04b311.netlify.app/" target="_blank" class="portfolio-badge">
-    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio">
-</a>
+## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,figma,vite,git,github,vercel&perline=7" />
+</p>
 
 ---
 
+## 🌟 Featured Projects
+
+### 🔹 **HireBharat – Job Portal (Frontend UI Reimagined)**  
+A beautifully crafted modern job portal UI with filters, animations & responsive layout.  
+👉 Repo: https://github.com/shubham-6969/HireBharat  
+
+---
+
+### 🔹 **Learnify – Course Selling Platform UI**  
+Frontend made with clean React architecture + Tailwind UI.  
+👉 Repo: https://github.com/shubham-6969/Learnify  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubham-6969&show_icons=true&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-6969&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhampatwal017">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://68ddf4192bf38628130d17d2--storied-granita-04b311.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="mailto:shubhampatwal017@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### ✨ *“Frontend is not just code — it’s an experience.”*
