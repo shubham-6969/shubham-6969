@@ -48,13 +48,18 @@ Frontend made with clean React architecture + Tailwind UI.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubham-6969&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=react&hide_border=true" />
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=shubham-6969&show_icons=true&theme=react&hide_border=true&cache_seconds=7200" />
+       
+  <img height="160" 
+       src="https://streak-stats.demolab.com?user=shubham-6969&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-6969&layout=compact&theme=react&hide_border=true" />
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-6969&layout=compact&theme=react&hide_border=true&cache_seconds=7200" />
 </p>
+
 
 ---
 
