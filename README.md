@@ -49,9 +49,6 @@ Frontend made with clean React architecture + Tailwind UI.
 <p align="center">
   <img height="160" 
        src="https://github-readme-stats-git-master-shubhambhide.vercel.app/api?username=shubham-6969&show_icons=true&theme=react&hide_border=true" />
-       
-  <img height="160" 
-       src="https://streak-stats.demolab.com?user=shubham-6969&theme=react&hide_border=true" />
 </p>
 
 ---
