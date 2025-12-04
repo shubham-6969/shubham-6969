@@ -64,7 +64,7 @@ Frontend made with clean React architecture + Tailwind UI.
   <a href="https://www.linkedin.com/in/shubhampatwal017">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://68ddf4192bf38628130d17d2--storied-granita-04b311.netlify.app/">
+  <a href="https://shubhampatwal.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="mailto:shubhampatwal017@gmail.com">
