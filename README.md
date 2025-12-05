@@ -47,7 +47,7 @@ Frontend made with clean React architecture + Tailwind UI.
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubham-6969&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=tokyonight" alt="GitHub Streak" /> <br />  </p>
+<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=tokyonight" alt="GitHub Streak" /> <br />  </p>
 
 ---
 
