@@ -1,70 +1,22 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#7dd3fc;">Shubham Patwal</span></h1>
-<h3 align="center">🎨 Frontend Developer | React.js Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shubham Patwal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-ff69b4?style=flat-square">
-  <img src="https://img.shields.io/badge/Speciality-React.js-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Loves-Creating%20Beautiful%20UI-ff7f50?style=flat-square">
+- 🌱 I’m currently learning **React.js, Vue.js, GSAP, Tailwind CSS, and UI/UX fundamentals**
+
+- 👨‍💻 All of my projects are available at [https://shubhampatwal.netlify.app](https://shubhampatwal.netlify.app)
+
+- 🤝 I’m looking to collaborate on **Open-source React UI components, beginner-friendly frontend projects**
+
+- 📫 How to reach me **shubhampatwal017@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/14Mxeh7nDcgjxBepX2zB0BDKdoVkfn_mQ/view?usp=sharing](https://drive.google.com/file/d/14Mxeh7nDcgjxBepX2zB0BDKdoVkfn_mQ/view?usp=sharing)
+
+- 🔭 I’m currently working on **Frontend Practice Projects — UI clones, animations, and responsive designs**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhampatwal017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhampatwal017" height="30" width="40" /></a>
 </p>
 
----
-
-## 🌈 About Me
-
-✨ A passionate **Frontend Developer** who loves building  
-smooth, responsive, and visually engaging web apps.
-
-💡 Currently focusing on:  
-- Modern **React UI** patterns  
-- Clean & accessible design  
-- Frontend architecture  
-- Component-driven development  
-
-🎨 I enjoy converting ideas into pixel-perfect, production-ready UI.
-
----
-
-## 🧰 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,figma,vite,git,github,vercel&perline=7" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 **HireBharat – Job Portal (Frontend UI Reimagined)**  
-A beautifully crafted modern job portal UI with filters, animations & responsive layout.  
-👉 Repo: https://github.com/shubham-6969/HireBharat  
-
----
-
-### 🔹 **Learnify – Course Selling Platform UI**  
-Frontend made with clean React architecture + Tailwind UI.  
-👉 Repo: https://github.com/shubham-6969/Learnify  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-6969&theme=tokyonight" alt="GitHub Streak" /> <br />  </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhampatwal017">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://shubhampatwal.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="mailto:shubhampatwal017@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-### ✨ *“Frontend is not just code — it’s an experience.”*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
