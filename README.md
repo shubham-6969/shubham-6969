@@ -23,7 +23,7 @@ I love building scalable web applications, solving real-world problems, and crea
 ### 🌐 Portfolio & Resume
 
 - 👨‍💻 Portfolio: **https://shubhampatwal.netlify.app**
-- 📄 Resume: **https://drive.google.com/file/d/14Mxeh7nDcgjxBepX2zB0BDKdoVkfn_mQ/view?usp=sharing**
+- 📄 Resume: **https://drive.google.com/file/d/1Ys14KGIx-9PMcdGTexa39YHp1WF5RDqq/view?usp=sharing**
 - 📫 Email: **shubhampatwal017@gmail.com**
 
 ---
